@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @NouFeet or Nikita Kuprins
+- 👋 Hi, I’m Nikita Kuprins
 - 👀 I’m interested in Java
-- 📫 How to reach me nikita.kuprins@gmail.com or instagram @noufeet
-
-<!---
-NouFeet/NouFeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me
+1. nikita.kuprins@gmail.com
+2. LinkedIn: https://www.linkedin.com/in/nikita-kuprins-1b3645217/  
+3. Instagram: @noufeet
