@@ -8,17 +8,8 @@ My main focus is Java backend development
 
 ## Open Source Contributions
 
-<table>
-  <tr>
-    <td valign="middle"><img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" width="20" height="20"></td>
-    <td valign="middle"><b>Apache Fesod:</b> <a href="https://github.com/apache/fesod/pulls?q=is%3Apr+author%3Ankuprins">fesod</a></td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="https://avatars.githubusercontent.com/u/47359?s=48&v=4" width="20" height="20"></td>
-    <td valign="middle"><b>Apache DolphinScheduler:</b> <a href="https://github.com/apache/dolphinscheduler/pulls?q=is%3Apr+is%3Aclosed+author%3Ankuprins">cycle-detection bug</a></td>
-  </tr>
-  <tr>
-    <td valign="middle"><img src="https://avatars.githubusercontent.com/u/106592817?s=48&v=4" width="20" height="20"></td>
-    <td valign="middle"><b>PubHubs</b> <i>(internship)</i>: decentralized forum integration (Matrix protocol)</td>
-  </tr>
-</table>
+![Apache](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/47359?v=4&h=16&w=16&fit=cover&mask=circle) **Apache Fesod**: [merged and open pull requests](https://github.com/apache/fesod/pulls?q=is%3Apr+author%3Ankuprins)
+
+![Apache](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/47359?v=4&h=16&w=16&fit=cover&mask=circle) **Apache DolphinScheduler**: [cycle-detection fix](https://github.com/apache/dolphinscheduler/pulls?q=is%3Apr+is%3Aclosed+author%3Ankuprins)
+
+![PubHubs](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/106592817?v=4&h=16&w=16&fit=cover&mask=circle) **PubHubs** *(internship)*: decentralized forum integration over the Matrix protocol
