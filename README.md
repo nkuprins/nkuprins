@@ -15,4 +15,4 @@
 
 ![Apache](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/47359?v=4&h=16&w=16&fit=cover&mask=circle) **[Apache DolphinScheduler](https://dolphinscheduler.apache.org)** - [cycle-detection fix](https://github.com/apache/dolphinscheduler/pulls?q=is%3Apr+is%3Aclosed+author%3Ankuprins)
 
-![PubHubs](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/106592817?v=4&h=16&w=16&fit=cover&mask=circle) **PubHubs** *(internship)* — decentralized forum integration over the Matrix protocol
+![PubHubs](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/106592817?v=4&h=16&w=16&fit=cover&mask=circle) **PubHubs** *(internship)* - decentralized forum integration over the Matrix protocol
