@@ -6,9 +6,9 @@
 [![Email](https://img.shields.io/badge/Email-nikita.kuprins%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nikita.kuprins@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-kuprins)
 
-## Apache Software Foundation
+## Maintaining
 
-![Apache](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/47359?v=4&h=16&w=16&fit=cover&mask=circle) **[Apache Fesod](https://fesod.apache.org)** - committer
+![Apache](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/47359?v=4&h=16&w=16&fit=cover&mask=circle) **[Apache Fesod](https://fesod.apache.org)** committer - 
 [merged pull requests](https://github.com/apache/fesod/pulls?q=is%3Apr+is%3Amerged+author%3Ankuprins)
 
 ## Other
